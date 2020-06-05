@@ -30,7 +30,7 @@ Gorilla Mux was used for the server
 para descargar todas las dependencias del repositorio ejecute el siguiente comando:
 
 ```sh
-$ go get -v
+$ go mod tidy
 ```
 
 To start the server run:
